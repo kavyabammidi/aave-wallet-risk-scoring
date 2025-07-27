@@ -47,7 +47,8 @@ def label_wallet(row):
         return 'medium'
     else:
         return 'low'
-✅ Current Status
+
+### ✅ Current Status
 Data successfully fetched and processed
 
 Risk scoring logic implemented and applied
